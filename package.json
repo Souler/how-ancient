@@ -1,0 +1,17 @@
+{
+  "name": "@souler/how-ancient",
+  "version": "0.1.0",
+  "bin": "bin.js",
+  "license": "MIT",
+  "dependencies": {
+    "@npmcli/arborist": "^6.0.0",
+    "error-cause": "^1.0.4",
+    "esm": "^3.2.25",
+    "lodash": "^4.17.21",
+    "luxon": "^3.0.4",
+    "memoize-one": "^6.0.0",
+    "npm": "^8.19.2",
+    "npm-package-arg": "^10.0.0",
+    "pacote": "^15.0.3"
+  }
+}
